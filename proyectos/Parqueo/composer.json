@@ -1,0 +1,9 @@
+{
+    "name": "root/parqueo",
+    "autoload": {
+        "psr-4": {
+            "Root\\Parqueo\\": "src/"
+        }
+    },
+    "require": {}
+}
