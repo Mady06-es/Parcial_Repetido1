@@ -1,6 +1,18 @@
 <?php
 
 
+namespace Parqueo\Enums;
+
+
+
+
+
+
+
+
+
+
+
 
 
 
